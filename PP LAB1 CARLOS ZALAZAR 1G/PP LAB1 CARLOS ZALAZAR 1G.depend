@@ -1,0 +1,132 @@
+# depslib dependency file v1.0
+1667003617 source:c:\users\usuario\desktop\parcial laboratorio\pp lab1 carlos zalazar 1g\micros.c
+	<stdio.h>
+	<stdlib.h>
+	"micros.h"
+	"destinos.h"
+	"tipo.h"
+	"validar.h"
+	<ctype.h>
+	<string.h>
+	"chofer.h"
+
+1666965945 source:c:\users\usuario\desktop\parcial laboratorio\pp lab1 carlos zalazar 1g\destinos.c
+	<stdio.h>
+	<stdlib.h>
+	"micros.h"
+	"destinos.h"
+	"tipo.h"
+	"validar.h"
+	"viajes.h"
+	<string.h>
+
+1667003605 c:\users\usuario\desktop\parcial laboratorio\pp lab1 carlos zalazar 1g\micros.h
+	"empresa.h"
+	"tipo.h"
+	"chofer.h"
+
+1666965945 c:\users\usuario\desktop\parcial laboratorio\pp lab1 carlos zalazar 1g\destinos.h
+
+1666895660 c:\users\usuario\desktop\parcial laboratorio\pp lab1 carlos zalazar 1g\tipo.h
+
+1666895660 source:c:\users\usuario\desktop\parcial laboratorio\pp lab1 carlos zalazar 1g\tipo.c
+	<stdio.h>
+	<stdlib.h>
+	"micros.h"
+	"destinos.h"
+	"tipo.h"
+	<string.h>
+	"validar.h"
+
+1667003647 source:c:\users\usuario\desktop\parcial laboratorio\pp lab1 carlos zalazar 1g\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"micros.h"
+	"destinos.h"
+	"tipo.h"
+	"empresa.h"
+	"validar.h"
+	"viajes.h"
+	"chofer.h"
+
+1666894006 c:\users\usuario\desktop\parcial laboratorio\pp lab1 carlos zalazar 1g\empresa.h
+
+1666996599 source:c:\users\usuario\desktop\parcial laboratorio\pp lab1 carlos zalazar 1g\empresa.c
+	<stdio.h>
+	<stdlib.h>
+	"micros.h"
+	"destinos.h"
+	"tipo.h"
+	"empresa.h"
+	<string.h>
+	"validar.h"
+
+1666976331 c:\users\usuario\desktop\parcial laboratorio\pp lab1 carlos zalazar 1g\validar.h
+
+1666976331 source:c:\users\usuario\desktop\parcial laboratorio\pp lab1 carlos zalazar 1g\validar.c
+	<stdio.h>
+	<stdlib.h>
+	"micros.h"
+	"destinos.h"
+	"tipo.h"
+	"empresa.h"
+	"validar.h"
+	"viajes.h"
+
+1666995662 c:\users\usuario\desktop\parcial laboratorio\pp lab1 carlos zalazar 1g\viajes.h
+	"fecha.h"
+
+1666995698 source:c:\users\usuario\desktop\parcial laboratorio\pp lab1 carlos zalazar 1g\viajes.c
+	<stdio.h>
+	<stdlib.h>
+	"micros.h"
+	"destinos.h"
+	"tipo.h"
+	"validar.h"
+	"viajes.h"
+	<string.h>
+
+1666894900 c:\users\usuario\desktop\parcial laboratorio\pp lab1 carlos zalazar 1g\fecha.h
+
+1666894841 source:c:\users\usuario\desktop\parcial laboratorio\pp lab1 carlos zalazar 1g\fecha.c
+	<stdio.h>
+	<stdlib.h>
+	"micros.h"
+	"destinos.h"
+	"tipo.h"
+	<string.h>
+	"validar.h"
+	"fecha.h"
+
+1666925042 source:c:\users\usuario\desktop\parcial laboratorio\pp lab1 carlos zalazar 1g\informes.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"micros.h"
+	"destinos.h"
+	"tipo.h"
+	"empresa.h"
+	"validar.h"
+	"viajes.h"
+
+1666965608 source:c:\users\usuario\desktop\parcial laboratorio\pp lab1 carlos zalazar 1g\pasajero.c
+	<stdio.h>
+	<stdlib.h>
+	"pasajero.h"
+
+1666965627 c:\users\usuario\desktop\parcial laboratorio\pp lab1 carlos zalazar 1g\pasajero.h
+
+1666997539 source:c:\users\usuario\desktop\parcial laboratorio\pp lab1 carlos zalazar 1g\chofer.c
+	<stdio.h>
+	<stdlib.h>
+	"micros.h"
+	"destinos.h"
+	"tipo.h"
+	"validar.h"
+	<ctype.h>
+	<string.h>
+	"chofer.h"
+
+1666997057 c:\users\usuario\desktop\parcial laboratorio\pp lab1 carlos zalazar 1g\chofer.h
+
